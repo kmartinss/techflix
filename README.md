@@ -1,6 +1,6 @@
 ## Techflix
 
-Techflix é uma plataforma desenvolvida durante Imersão Alura com o objetivo de reunir vídeos relacionados a desenvolvimento e programação num único lugar.
+Techflix é uma plataforma de busca desenvolvida com o objetivo de reunir vídeos relacionados a desenvolvimento e programação num único lugar.
 
 
 Este projeto foi inicializado com [Create React App] (https://github.com/facebook/create-react-app).
